@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : golushbz/goku:latest
+     image : golushbz/goku
      ports :
          - "8000:8000"
